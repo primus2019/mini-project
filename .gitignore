@@ -1,9 +1,10 @@
 # project files
 __pycache__/
 utils/
-records/*
+*.txt
 *.csv
 .vscode/
+!requirements.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
