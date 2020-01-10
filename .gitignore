@@ -3,6 +3,9 @@ __pycache__/
 utils/
 *.txt
 *.csv
+*.png
+*.jpg
+*.html
 .vscode/
 !requirements.txt
 
