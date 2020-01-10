@@ -6,6 +6,10 @@ import seaborn as sns
 import os
 import datetime
 
+import geocoder
+import folium
+import folium.plugins
+
 from collections import Counter
 
 def run():
