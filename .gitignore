@@ -1,6 +1,5 @@
 # project files
 __pycache__/
-utils/
 *.txt
 *.csv
 *.png
